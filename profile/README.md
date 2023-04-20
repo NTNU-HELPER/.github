@@ -12,4 +12,4 @@
 -->
 ### 這裡是師大課程小幫手的首頁
 ### 我們的官方網站
-[連結](NTNU-HELPER.github.io)
+[連結](https://NTNU-HELPER.github.io)
